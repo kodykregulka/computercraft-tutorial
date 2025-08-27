@@ -1,0 +1,3 @@
+--for this one there is no red finish block
+--just dig all of the dirt out that is on the iron blocks
+--any way you see fit (with the robot)
