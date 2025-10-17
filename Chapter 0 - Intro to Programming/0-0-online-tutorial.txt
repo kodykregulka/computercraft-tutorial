@@ -1,0 +1,3 @@
+this tutorial will provide a great basic understanding of the language
+
+https://www.codecademy.com/enrolled/courses/learn-lua
